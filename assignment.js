@@ -72,3 +72,5 @@ var friendNames = [
 ];
 var megaResult = megaFriend(friendNames);
 console.log(megaResult);
+
+// end here
